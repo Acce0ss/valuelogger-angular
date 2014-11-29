@@ -1,0 +1,28 @@
+{
+  "name": "valuelogger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Acce0ss/valuelogger-angular",
+  "description": "HTML5 angular UI for valuelogger service",
+  "main": "index.php",
+  "keywords": [
+    "value",
+    "logger"
+  ],
+  "authors": [
+    "Asser Lähdemäki"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-moment": "~0.8.2",
+    "angular": "~1.2.26",
+    "mobile-angular-ui": "~1.1.0-beta.30"
+  }
+}
